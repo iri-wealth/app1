@@ -1,14 +1,9 @@
-remove the watter
-write the letter
-super
-wash the dishes
-new todo in the list
-clean the floor
+write the codenew programclean the floor
 watch TV
-go to sleep
 learn Python
 learn Python
 read a book
 read the book
 master Python
 Master Python
+new
