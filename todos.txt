@@ -9,3 +9,6 @@ go to sleep
 learn Python
 learn Python
 read a book
+read the book
+master Python
+Master Python
