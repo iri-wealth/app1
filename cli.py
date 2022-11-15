@@ -40,7 +40,7 @@ while True:
             functions.write_todos(todos)
 
         except ValueError:
-            print("Your command is not valid")#
+            print("Your command is not valid")
             continue
 
     elif user_action.startswith("Complete"):
