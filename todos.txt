@@ -1,6 +1,2 @@
-learn Python
 learn programming
-write the message
-mastering Python every day
-new todo
 learn backend dev
