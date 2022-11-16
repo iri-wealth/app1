@@ -1,2 +1,6 @@
 learn programming
 learn backend dev
+practice Python
+learn advanced Python
+write the code
+create the App
